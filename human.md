@@ -1,7 +1,9 @@
-Introduction Scope of Manual
 
-Fisher™ ET and EAT easy‐e™ Valves CL125 through CL600 
-Contents
+
+# Fisher™ ET and EAT easy‐e™ Valves CL125 through CL600
+
+## Contents
+
  - Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
      - Scope of Manual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
      - Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
@@ -9,21 +11,26 @@ Contents
      - Educational Services . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
  - Installation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
  - Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
- - Packing Lubrication . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
- - Packing Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . 6
- - Replacing Packing . . . . . . . . . . . . . . . . . . . . . . . . . 7
- - Trim Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
- - Disassembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
- - Lapping Metal Seats . . . . . . . . . . . . . . . . . . . . . . . 15
- - Valve Plug Maintenance . . . . . . . . . . . . . . . . . . . . 16
- - Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
- - ENVIRO‐SEAL™ Bellows Seal Bonnet . . . . . . . . . . . . . 20
- - Replacing a Plain or Extension Bonnet with an  ENVIRO‐SEAL Bellows Seal Bonnet (Stem/Bellows Assembly) . . . . . . . . . . . . . . . . 20
- - Replacement of an Installed ENVIRO‐SEAL  Bellows Seal Bonnet  (Stem/Bellows Assembly) . . . . . . . . . . . . . . . . 23
- - Purging the ENVIRO‐SEAL Bellows Seal Bonnet . 25 Parts Ordering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+     - Packing Lubrication . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+     - Packing Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+         - Replacing Packing . . . . . . . . . . . . . . . . . . . . . . . . . 7
+     - Trim Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+         - Disassembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+         - Lapping Metal Seats . . . . . . . . . . . . . . . . . . . . . . . 15
+         - Valve Plug Maintenance . . . . . . . . . . . . . . . . . . . . 16
+         - Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+     - ENVIRO‐SEAL™ Bellows Seal Bonnet . . . . . . . . . . . . . 20
+         - Replacing a Plain or Extension Bonnet with an  ENVIRO‐SEAL Bellows Seal Bonnet (Stem/Bellows Assembly) . . . . . . . . . . . . . . . . 20
+         - Replacement of an Installed ENVIRO‐SEAL  Bellows Seal Bonnet  (Stem/Bellows Assembly) . . . . . . . . . . . . . . . . 23
+         - Purging the ENVIRO‐SEAL Bellows Seal Bonnet . 25
+ - Parts Ordering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
  - Parts Kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
  - Parts List  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
 
+![Figure 1. Fisher ET Control Valve with 667 Actuator](https://raw.githubusercontent.com/anvlasov/pdfParser/pics/Figure1.png "San Juan Mountains")
+
+## Introduction
+### Scope of Manual
 ![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/1f914d2be6405c4be512845f65a227a25418cdaf06f2cfcf218eaa4743ae8940_101_114.png)
 
 Instruction Manual D100398X012 ET Valve August 2021 
