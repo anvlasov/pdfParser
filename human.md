@@ -1,9 +1,12 @@
-
+**Instruction Manual**  
+D100398X012  
+**ET Valve**  
+August 2021
+***
 
 # Fisher™ ET and EAT easy‐e™ Valves CL125 through CL600
 
 ## Contents
-
  - Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
      - Scope of Manual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
      - Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
@@ -27,19 +30,60 @@
  - Parts Kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
  - Parts List  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
 
-![Figure 1. Fisher ET Control Valve with 667 Actuator](https://raw.githubusercontent.com/anvlasov/pdfParser/pics/Figure1.png "San Juan Mountains")
+***
+Figure 1. Fisher ET Control Valve with 667 Actuator  
+![Figure 1. Fisher ET Control Valve with 667 Actuator](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Figure1.png)  
+W1916‐4
+***
 
 ## Introduction
 ### Scope of Manual
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/1f914d2be6405c4be512845f65a227a25418cdaf06f2cfcf218eaa4743ae8940_101_114.png)
+This instruction manual includes installation, maintenance, and parts information for NPS 1 through 8 Fisher ET valves, and NPS 1 through 6 EAT valves, through CL600 ratings. Refer to separate manuals for instructions covering the actuator and accessories.
 
-Instruction Manual D100398X012 ET Valve August 2021 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/bcfebe5dc6c33950a5f4da07d92bdbc340b9ebd849f6f86a606f6109b3182fd5_77_79.png)
+![](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
+![](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon2.png)
+Do not install, operate, or maintain ET valves without being fully trained and qualified in valve, actuator, and accessory installation, operation, and maintenance. To avoid personal injury or property damage, it is important to carefully read, understand, and follow all the contents of this manual, including all safety cautions and warnings. If you have any questions about these instructions, contact your [Emerson sales office](https://www.emerson.com/en-us/automation/fisher) before proceeding.
 
-Do not install, operate, or maintain ET valves without being fully trained and qualified in valve, actuator, and accessory installation, operation, and maintenance. To avoid personal injury or property damage, it is important to carefully read, understand, and follow all the contents of this manual, including all safety cautions and warnings. If you have any questions about these instructions, contact your Emerson sales office before proceeding. 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/697a53d4264083ab7afa95ee1f66d4ce17e340d779db187c9b55d829919e0004_551_291.png)
+![](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/fisher.png)
+***
+[www.Fisher.com](https://www.emerson.com/en-us/automation/fisher)
 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/e778c16cbe6de37fd26312e003b20079c4bca1d2077b7d9244b5502cc132db42_104_244.png)
+![](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/emerson_logo.png)
+
+**ET Valve**  
+August 2021  
+**Instruction Manual**  
+D100398X012
+***
+
+#### Table 1. Specifications
+##### End Connection Styles
+**Cast Iron Valves**  
+_Flanged:_ CL125 flat‐face or 250 raised‐face flanges per ASME B16.1  
+**Steel and Stainless Steel Valves**  
+_Flanged:_ CL150, 300, and 600 raised‐face or ring‐type joint flanges per ASME B16.5  
+_Screwed or Socket Welding:_ All available ASME B16.11 schedules that are consistent with CL600 per ASME B16.34
+_Buttwelding:_ Consistent with ASME B16.25  
+**Valves with R31233 Dirty Service Trim (DST)**  
+_Flanged:_ CL300, CL 600 raised‐face or ring‐type joint flanges per ASME B16.5  
+_Buttwelding:_ Schedules 40 or 80 consistent with ASME B16.25  
+NPS 3 through 8 CL300/CL600
+
+##### Maximum Inlet Pressure(1)
+Cast Iron Valves
+Flanged: Consistent with CL125B or 250B
+pressure‐temperature ratings per ASME B16.1
+Steel and Stainless Steel Valves
+Flanged: Consistent with CL150, 300, and 600(2)
+pressure‐temperature ratings per ASME B16.34
+Screwed or Welding: Consistent with CL600
+pressure‐temperature ratings per ASME B16.34
+Valves with R31233 DST
+Consistent with applicable CL300 or CL600
+pressure/temperature ratings per ASME B16.34. See
+the Installation section of this manual
+
+
 
 End Connection Styles Cast Iron Valves Flanged: CL125 flat‐face or 250 raised‐face flanges per ASME B16.1 Steel and Stainless Steel Valves Flanged: CL150, 300, and 600 raised‐face or ring‐type joint flanges per ASME B16.5 Screwed or Socket Welding: All available ASME B16.11 schedules that are consistent with CL600 per ASME B16.34 Buttwelding: Consistent with ASME B16.25 Valves with R31233 Dirty Service Trim (DST)  Flanged: CL300, CL 600 raised‐face or ring‐type joint flanges per ASME B16.5 Buttwelding: Schedules 40 or 80 consistent with ASME B16.25 NPS 3 through 8 CL300/CL600 
 Maximum Inlet Pressure(1) 
