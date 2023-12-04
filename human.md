@@ -306,6 +306,40 @@ For spring‐loaded single PTFE V‐ring packing, the spring (key 8) maintains a
 
 6
 
+**Instruction Manual**  
+D100398X012  
+**ET Valve**  
+August 2021
+***
+
+***
+Figure 2. Lubricator and Lubricator/Isolating Valve (Optional)  
+![Figure 2. Lubricator and Lubricator/Isolating Valve (Optional)](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Figure2.png)  
+10A9421‐A  
+AJ5428‐D  
+A0832‐2  
+***
+
+If there is undesirable packing leakage with other than spring‐loaded packing, first try to limit the leakage and establish a stem seal by tightening the packing flange nuts.
+
+If the packing is relatively new and tight on the stem, and if tightening the packing flange nuts does not stop the leakage, the valve stem may be worn or nicked so that a seal cannot be made. The surface finish of a new valve stem is critical for making a good packing seal. If the leakage comes from the outside diameter of the packing, the leakage may be caused by nicks or scratches around the packing box wall. If performing any of the following procedures, inspect the valve stem and packing box wall for nicks and scratches.
+
+### Replacing Packing
+
+**WARNING** 
+**Refer to the WARNING at the beginning of the Maintenance section in this instruction manual.**  
+***
+
+1. Isolate the control valve from the line pressure, release pressure from both sides of the valve, and drain the process media from both sides of the valve. If using a power actuator, also shut off all pressure lines to the power actuator, and release all pressure from the actuator. Use lock‐out procedures to be sure that the above measures stay in effect while you work on the equipment.
+2. Disconnect the operating lines from the actuator and any leak‐off piping from the bonnet. Disconnect the stem connector, then remove the actuator from the valve by unscrewing the yoke locknut (key 15, figure 14) or the hex nuts (key 26, figure 14).
+3. Loosen the packing flange nuts (key 5, figure 14) so that the packing is not tight on the valve stem. Remove any travel indicator parts and stem locknuts from the valve stem threads.
+
+**WARNING** 
+**To avoid personal injury or property damage caused by uncontrolled movement of the bonnet, loosen the bonnet by following the instructions in the next step. Do not remove a stuck bonnet by pulling on it with equipment that can stretch or store energy in any other manner. The sudden release of stored energy can cause uncontrolled movement of the bonnet.**  
+***
+
+7
+
 Packing Lubrication To avoid personal injury or property damage resulting from fire or explosion, do not lubricate packing used in oxygen service or in processes with temperatures over 260�C (500�F).
 If a lubricator or lubricator/isolating valve (figure 2) is provided for PTFE/composition or other packings that require lubrication, it will be installed in place of the pipe plug (key 14, figure 14). Use a good quality silicon‐base lubricant. Do not lubricate packing used in oxygen service or in processes with temperatures over 260�C (500�F). To operate the lubricator, simply turn the cap screw clockwise to force the lubricant into the packing box. The lubricator/isolating valve operates the same way except open the isolating valve before turning the cap screw and then close the isolating valve after lubrication is completed. 
 Packing Maintenance 
