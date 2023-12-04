@@ -326,7 +326,8 @@ If the packing is relatively new and tight on the stem, and if tightening the pa
 
 ### Replacing Packing
 
-**WARNING** 
+![WARNING](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
+**WARNING**  
 **Refer to the WARNING at the beginning of the Maintenance section in this instruction manual.**  
 ***
 
@@ -334,89 +335,66 @@ If the packing is relatively new and tight on the stem, and if tightening the pa
 2. Disconnect the operating lines from the actuator and any leak‐off piping from the bonnet. Disconnect the stem connector, then remove the actuator from the valve by unscrewing the yoke locknut (key 15, figure 14) or the hex nuts (key 26, figure 14).
 3. Loosen the packing flange nuts (key 5, figure 14) so that the packing is not tight on the valve stem. Remove any travel indicator parts and stem locknuts from the valve stem threads.
 
-**WARNING** 
+![WARNING](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
+**WARNING**  
 **To avoid personal injury or property damage caused by uncontrolled movement of the bonnet, loosen the bonnet by following the instructions in the next step. Do not remove a stuck bonnet by pulling on it with equipment that can stretch or store energy in any other manner. The sudden release of stored energy can cause uncontrolled movement of the bonnet.**  
 ***
 
 7
 
-Packing Lubrication To avoid personal injury or property damage resulting from fire or explosion, do not lubricate packing used in oxygen service or in processes with temperatures over 260�C (500�F).
-If a lubricator or lubricator/isolating valve (figure 2) is provided for PTFE/composition or other packings that require lubrication, it will be installed in place of the pipe plug (key 14, figure 14). Use a good quality silicon‐base lubricant. Do not lubricate packing used in oxygen service or in processes with temperatures over 260�C (500�F). To operate the lubricator, simply turn the cap screw clockwise to force the lubricant into the packing box. The lubricator/isolating valve operates the same way except open the isolating valve before turning the cap screw and then close the isolating valve after lubrication is completed. 
-Packing Maintenance 
-Key numbers refer to figure 3 for PTFE V‐ring packing and to figure 4 for PTFE/composition packing, unless otherwise indicated. For spring‐loaded single PTFE V‐ring packing, the spring (key 8) maintains a sealing force on the packing. If leakage is noted around the packing follower (key 13), check to be sure the shoulder on the packing follower is touching the bonnet. If the shoulder is not touching the bonnet, tighten the packing flange nuts (key 5, figure 14) until the shoulder is against the bonnet. If leakage cannot be stopped in this manner, proceed to the Replacing Packing procedure.
-Instruction Manual D100398X012 ET Valve August 2021 
-Note Whenever a gasket seal is disturbed by removing or shifting gasketed parts, install a new gasket during reassembly. This ensures a good gasket seal because the used gasket may not seal properly.
-Note 
-ENVIRO‐SEAL and HIGH‐SEAL packing do not require lubrication. 
-Note For valves with ENVIRO‐SEAL packing, see the Fisher instruction manual, ENVIRO‐SEAL Packing System for Sliding‐Stem Valves, [D101642X012,](http://www.emerson.com/documents/automation/127174.pdf) for packing instructions. For valves with HIGH‐SEAL packing, see the Fisher instruction manual, HIGH‐SEAL Live‐Loaded Packing System, [D101453X012](http://www.emerson.com/documents/automation/127164.pdf), for packing instructions.
-Valve assemblies with Trim Cartridge utilize a packing nut design and are only available with ENVIRO-SEAL packing. If the valve contains Trim Cartridge (Trim Cartridges can be identified by a name plate on  the bonnet flange, the use of a packing nut, and “Fisher” embossed below the yoke mounting), please refer to Fisher ET and EZ easy-e Valves with Trim Cartridge Instruction Manual ([D104358X012](https://www.emerson.com/documents/automation/instruction-manual-fisher-et-ez-easy-e-control-valves-trim-cartridge-en-7589820.pdf)) for appropriate packing maintenance instructions. 
-6 
-  WARNING 
-If there is undesirable packing leakage with other than spring‐loaded packing, first try to limit the leakage and establish a stem seal by tightening the packing flange nuts. 
-If the packing is relatively new and tight on the stem, and if tightening the packing flange nuts does not stop the leakage, the valve stem may be worn or nicked so that a seal cannot be made. The surface finish of a new valve stem is critical for making a good packing seal. If the leakage comes from the outside diameter of the packing, the leakage may be caused by nicks or scratches around the packing box wall. If performing any of the following procedures, inspect the valve stem and packing box wall for nicks and scratches. 
-Replacing Packing 
-Refer to the WARNING at the beginning of the Maintenance section in this instruction manual. 
-1.  Isolate the control valve from the line pressure, release pressure from both sides of the valve, and drain the process media from both sides of the valve. If using a power actuator, also shut off all pressure lines to the power actuator, and release all pressure from the actuator. Use lock‐out procedures to be sure that the above measures stay in effect while you work on the equipment. 
-2.  Disconnect the operating lines from the actuator and any leak‐off piping from the bonnet. Disconnect the stem connector, then remove the actuator from the valve by unscrewing the yoke locknut (key 15, figure 14) or the hex nuts (key 26, figure 14). 
-3.  Loosen the packing flange nuts (key 5, figure 14) so that the packing is not tight on the valve stem. Remove any travel indicator parts and stem locknuts from the valve stem threads. 
-To avoid personal injury or property damage caused by uncontrolled movement of the bonnet, loosen the bonnet by following the instructions in the next step. Do not remove a stuck bonnet by pulling on it with equipment that can stretch or store energy in any other manner. The sudden release of stored energy can cause uncontrolled movement of the bonnet. 
-Instruction Manual D100398X012 ET Valve August 2021 
-Figure 2. Lubricator and Lubricator/Isolating Valve (Optional) 
-  WARNING 
-  WARNING 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/54bc27021e01a5c478bfe61ad651f4c030c43490050ad7ee3ca64ad52ba0ee15_713_936.png)
+**ET Valve**  
+August 2021  
+**Instruction Manual**  
+D100398X012
+***
 
-LUBRICATOR/ISOLATING VALVE 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/c995cf90acdff8e8bb20f26686a25740129f2cadac93bb5ee18d7897ecf9b8e7_697_1725.png)
+***
+Figure 3. PTFE V‐Ring Packing Arrangements for Plain and Extension Bonnets
+![Figure 3. PTFE V‐Ring Packing Arrangements for Plain and Extension Bonnets](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Figure3.png)  
+***
 
-LOWER WIPER ASSEMBLY 1 (POSITIVE PRESSURES) 
-A8187-D 12A7814-D 12A7839-A 
-Instruction Manual D100398X012 ET Valve August 2021 
-Figure 3. PTFE V‐Ring Packing Arrangements for Plain and Extension Bonnets 
-B1428‐5 
-8 
-9.5 mm (3/8 INCH) STEM 12.7 mm (1/2 INCH) STEM 19.1, 25.4, OR 31.8 mm (3/4, 1, OR 1‐1/4 INCH) STEM DOUBLE ARRANGEMENTS 
-PACKING BOX RING (KEY 11) 
-UPPER WIPER (KEY 12) PACKING  FOLLOWER (KEY 13) 
-NOTE: MALE ADAPTOR, PACKING RING, FEMALE ADAPTOR, AND LOWER WIPER ARE PART OF PACKING SET (KEY 6). 2 REQ'D FOR DOUBLE ARRANGEMENTS, EXCEPT LOWER WIPER. 
-1 
-SINGLE ARRANGEMENTS 12A7837‐A B1429‐5 
-ASSEMBLY 2 (VACUUM) ASSEMBLY 3 (POSITIVE PRESSURES & VACUUM) 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/7328e05664f361a9d2c7dda6db4214e1bf751a0b71919cd22509e31f94aef2ea_631_1281.png)
+8
 
-ASSEMBLY 1 (POSITIVE PRESSURES) 
-ASSEMBLY 2 (VACUUM) ASSEMBLY 3 (POSITIVE PRESSURES & VACUUM) 
-FEMALE ADAPTOR PACKING RING MALE ADAPTOR MALE ADAPTOR LOWER WIPER
-1 
-1 
-1 1 
-1 
-1 
-1 
-ASSEMBLY 1 (POSITIVE PRESSURES) 
-FEMALE ADAPTOR 1
-LOWER WIPER FOR ALL OTHER METAL PACKING BOX PART MATERIALS
-ASSEMBLY 2 (VACUUM) ASSEMBLY 3 (POSITIVE PRESSURES & VACUUM) 
-PACKING  FOLLOWER (KEY 13) 
-SPACER (KEY 8) 
-PACKING BOX RING (KEY 11) 
-UPPER WIPER (KEY 12) 
-UPPER WIPER (KEY 12) PACKING  FOLLOWER (KEY 13) 
-MALE ADAPTOR PACKING RING
-FEMALE ADAPTOR LANTERN RING (KEY 8)
+**Instruction Manual**  
+D100398X012  
+**ET Valve**  
+August 2021
+***
 
-VALVE SIZE, NPS                                                                                                                                                                                                                                              |\-            |BOLT TORQUES(2)         |\-    |\-            |\-    
-:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------:|:----------------------:|:----:|:------------:|:----:
-ET                                                                                                                                                                                                                                                           |EAT           |SA193‐B7, SA193‐B8M(4,5)|\-    |SA193‐B8M(3,5)|\-    
-\-                                                                                                                                                                                                                                                           |\-            |N�m                     |Lbf�ft|N�m           |Lbf�ft
-1‐1/4 or less                                                                                                                                                                                                                                                |1             |129                     |95    |64            |47    
-1‐1/2, 1‐1/2 x 1, 2, or 2 x 1                                                                                                                                                                                                                                |2 or 2 x 1    |96                      |71    |45            |33    
-2‐1/2 or 2‐1/2 x 1‐1/2                                                                                                                                                                                                                                       |3 or 3 x 1‐1/2|129                     |95    |64            |47    
-3, 3 x 2, or 3 x 2‐1/2                                                                                                                                                                                                                                       |4 or 4 x 2    |169                     |125   |88            |65    
-4, 4 x 2‐1/2, or 4 x 3                                                                                                                                                                                                                                       |6 or 6 x 2‐1/2|271                     |200   |156           |115   
-6                                                                                                                                                                                                                                                            |–� – �–       |549                     |405   |366           |270   
-8                                                                                                                                                                                                                                                            |–� – �–       |746                     |550   |529           |390   
-1. Torque guideline using lithium-based grease. For other lubricants, contact your Emerson sales office. 2. Determined from laboratory tests. 3. SA193‐B8M annealed. 4. SA193‐B8M strain hardened. 5. For other materials, contact your Emerson sales office.|\-            |\-                      |\-    |\-            |\-    
+***
+Figure 4. Detail of PTFE/Composition Packing Arrangements for Plain and Extension Bonnets
+![Figure 4. Detail of PTFE/Composition Packing Arrangements for Plain and Extension Bonnets](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Figure4.png)  
+12A8188‐A  
+12A7815‐A  
+12A8173‐A  
+A2619‐1  
+***
+
+**Table 3. Body‐to‐Bonnet Bolt Torque Guidelines<sup>(1)</sup>**  
+| **VALVE SIZE, NPS** | \- | **BOLT TORQUES<sup>(2)</sup>** | \- | \- | \- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **ET** | **EAT** | **SA193‐B7, SA193‐B8M<sup>(4,5)</sup>** | \- | **SA193‐B8M<sup>(3,5)</sup>** | \- |
+| \- | \- | N&#8226;m | Lbf&#8226;ft | N&#8226;m | Lbf&#8226;ft | Lbf&#8226;ft |
+| 1‐1/4 or less | 1 | 129 | 95 | 64 | 47 |
+| 1‐1/2, 1‐1/2 x 1, 2, or 2 x 1 | 2 or 2 x 1 | 96 | 71 | 45 | 33 |
+| 2‐1/2 or 2‐1/2 x 1‐1/2 | 3 or 3 x 1‐1/2 | 129 | 95 | 64 | 47 |
+| 3, 3 x 2, or 3 x 2‐1/2 | 4 or 4 x 2 | 169 | 125 | 88 | 65 |
+| 4, 4 x 2‐1/2, or 4 x 3 | 6 or 6 x 2‐1/2 | 271 | 200 | 156 | 115 |
+| 6 | - - - | 549 | 405 | 366 | 270 |
+| 8 | - - - | 746 | 550 | 529 | 390 |
+| <ol><li>Torque guideline using lithium-based grease. For other lubricants, contact your [Emerson sales office](https://www.emerson.com/en-us/automation/fisher).</li><li>Determined from laboratory tests.</li><li>SA193‐B8M annealed.</li><li>SA193‐B8M strain hardened.</li><li>For other materials, contact your Emerson sales office.</li></ol> | \- | \- | \- | \- | \- |
+
+***
+**Note**  
+The following step also helps to provide additional assurance that the valve body fluid pressure has been relieved.  
+***
+
+**CAUTION**  
+**Avoid damaging the seating surface caused by the valve plug and stem assembly dropping from the bonnet (key 1, figure 14) after being lifted part way out. When lifting the bonnet, temporarily install a valve stem locknut on the valve stem. The locknut will prevent the valve plug and stem assembly from dropping out of the bonnet.**  
+***
+
+9
+
 
 Instruction Manual D100398X012 ET Valve August 2021 
 Figure 4. Detail of PTFE/Composition Packing Arrangements for Plain and Extension Bonnets 
