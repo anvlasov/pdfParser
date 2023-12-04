@@ -4,9 +4,10 @@ D100398X012
 August 2021
 ***
 
-# Fisher™ ET and EAT easy‐e™ Valves CL125 through CL600
+**Fisher™ ET and EAT easy‐e™ Valves CL125 through CL600**
 
-## Contents
+# Contents
+
  - Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
      - Scope of Manual . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
      - Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
@@ -36,8 +37,10 @@ Figure 1. Fisher ET Control Valve with 667 Actuator
 W1916‐4
 ***
 
-## Introduction
-### Scope of Manual
+# Introduction
+
+## Scope of Manual
+
 This instruction manual includes installation, maintenance, and parts information for NPS 1 through 8 Fisher ET valves, and NPS 1 through 6 EAT valves, through CL600 ratings. Refer to separate manuals for instructions covering the actuator and accessories.
 
 ![](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
@@ -56,8 +59,10 @@ August 2021
 D100398X012
 ***
 
-#### Table 1. Specifications
-##### End Connection Styles
+### Table 1. Specifications
+
+#### End Connection Styles
+
 **Cast Iron Valves**  
 _Flanged:_ CL125 flat‐face or 250 raised‐face flanges per ASME B16.1  
 **Steel and Stainless Steel Valves**  
@@ -66,37 +71,45 @@ _Screwed or Socket Welding:_ All available ASME B16.11 schedules that are consis
 _Buttwelding:_ Consistent with ASME B16.25  
 **Valves with R31233 Dirty Service Trim (DST)**  
 _Flanged:_ CL300, CL 600 raised‐face or ring‐type joint flanges per ASME B16.5  
-_Buttwelding:_ Schedules 40 or 80 consistent with ASME B16.25  
-NPS 3 through 8 CL300/CL600
+_Buttwelding:_ Schedules 40 or 80 consistent with ASME B16.25 NPS 3 through 8 CL300/CL600
 
-##### Maximum Inlet Pressure(1)
-Cast Iron Valves
-Flanged: Consistent with CL125B or 250B
-pressure‐temperature ratings per ASME B16.1
-Steel and Stainless Steel Valves
-Flanged: Consistent with CL150, 300, and 600(2)
-pressure‐temperature ratings per ASME B16.34
-Screwed or Welding: Consistent with CL600
-pressure‐temperature ratings per ASME B16.34
-Valves with R31233 DST
-Consistent with applicable CL300 or CL600
-pressure/temperature ratings per ASME B16.34. See
-the Installation section of this manual
+#### Maximum Inlet Pressure(1)
 
+**Cast Iron Valves**  
+_Flanged:_ Consistent with CL125B or 250B pressure‐temperature ratings per ASME B16.1  
+**Steel and Stainless Steel Valves**  
+_Flanged:_ Consistent with CL150, 300, and 600(2)  
+pressure‐temperature ratings per ASME B16.34  
+_Screwed or Welding:_ Consistent with CL600 pressure‐temperature ratings per ASME B16.34  
+**Valves with R31233 DST**  
+Consistent with applicable CL300 or CL600 pressure/temperature ratings per ASME B16.34. See the Installation section of this manual
 
+#### Maximum Pressure Drop for R31233 DST
 
-End Connection Styles Cast Iron Valves Flanged: CL125 flat‐face or 250 raised‐face flanges per ASME B16.1 Steel and Stainless Steel Valves Flanged: CL150, 300, and 600 raised‐face or ring‐type joint flanges per ASME B16.5 Screwed or Socket Welding: All available ASME B16.11 schedules that are consistent with CL600 per ASME B16.34 Buttwelding: Consistent with ASME B16.25 Valves with R31233 Dirty Service Trim (DST)  Flanged: CL300, CL 600 raised‐face or ring‐type joint flanges per ASME B16.5 Buttwelding: Schedules 40 or 80 consistent with ASME B16.25 NPS 3 through 8 CL300/CL600 
-Maximum Inlet Pressure(1) 
-Maximum Pressure Drop for R31233 DST 2-Stage Trim: 750 psi 3-Stage Trim: 1500 psi Trim Material: R31233 Cobalt Chrome Alloy 
-Shutoff Classifications See table 2 
-Instruction Manual D100398X012 ET Valve August 2021 
-Table 1. Specifications 
-Cast Iron Valves Flanged: Consistent with CL125B or 250B pressure‐temperature ratings per ASME B16.1 Steel and Stainless Steel Valves Flanged: Consistent with CL150, 300, and 600(2) pressure‐temperature ratings per ASME B16.34 Screwed or Welding: Consistent with CL600 pressure‐temperature ratings per ASME B16.34 Valves with R31233 DST Consistent with applicable CL300 or CL600 pressure/temperature ratings per ASME B16.34. See the Installation section of this manual 
-1. The pressure/temperature limits in this manual and any applicable standard or code limitation for valve should not be exceeded. 2. Certain bonnet bolting material selections may require a CL600 easy‐e valve assembly to be derated. Contact your Emerson sales office. 
-2 
-Flow Characteristics 
-Flow Directions 
+_2-Stage Trim:_ 750 psi  
+_3-Stage Trim:_ 1500 psi  
+_Trim Material:_ R31233 Cobalt Chrome Alloy  
 
+#### Shutoff Classifications
+
+See table 2
+
+Flow Characteristics
+Linear (all cages), quick‐opening (all except Whisper
+Trim™, WhisperFlo™, and Cavitrol™ cages), or equal
+percentage (all except Whisper Trim, WhisperFlo, and
+Cavitrol cages)
+R31233 DST Constructions
+Linear
+
+Flow Directions
+Linear, Quick Opening, or Equal Percentage Cage:
+Normally down
+Whisper Trim and WhisperFlo Cages: Always up
+Cavitrol Cage: Always down
+R31233 DST Cage: Always down
+
+Approximate Weights
 VALVE SIZE, NPS|WEIGHT|\- 
 :-------------:|:----:|:-:
 \-             |kg    |lb 
@@ -109,7 +122,7 @@ VALVE SIZE, NPS|WEIGHT|\-
 6              |159   |350
 8              |408   |900
 
-
+Approximate Weights with R31233 DST
 VALVE SIZE, NPS|STAGE  |WEIGHT|\-  
 :-------------:|:-----:|:----:|:--:
 \-             |\-     |kg    |lb  
@@ -120,6 +133,14 @@ VALVE SIZE, NPS|STAGE  |WEIGHT|\-
 6              |2-stage|212   |467 
 \-             |3-stage|234   |515 
 8              |3-stage|518   |1143
+
+1. The pressure/temperature limits in this manual and any applicable standard or code limitation for valve should not be exceeded.
+2. Certain bonnet bolting material selections may require a CL600 easy‐e valve assembly to be derated. Contact your Emerson sales office.
+
+
+
+
+
 
 Linear (all cages), quick‐opening (all except Whisper Trim™, WhisperFlo™, and Cavitrol™ cages), or equal percentage (all except Whisper Trim, WhisperFlo, and Cavitrol cages) R31233 DST Constructions Linear 
 
