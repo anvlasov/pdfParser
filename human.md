@@ -143,6 +143,8 @@ Linear
 
 ***
 
+2
+
 **Instruction Manual**  
 D100398X012  
 **ET Valve**  
@@ -190,49 +192,92 @@ Phone: 1-641-754-3771 or 1-800-338-8158
 E-mail: [education@emerson.com](mailto:education@emerson.com)  
 emerson.com/fishervalvetraining  
 
+3
 
+**ET Valve**  
+D100398X012  
+**Instruction Manual**  
+August 2021
+***
 
+# Installation
 
-Description These single‐port valves have cage guiding, quick‐change trim, and balanced push‐down‐to‐close valve plug action. Valve configurations are as follows: ET‐‐Globe‐style valve (figure 1) with metal‐to‐PTFE seating (standard for all except Cavitrol III cages and DST) for stringent shutoff requirements, or metal‐to‐metal seating (standard for Cavitrol III cages and DST, optional for all others) for higher temperatures.
-EAT‐‐Angle version of ET, used to facilitate piping or in applications which require a self‐draining valve. 
-Specifications 
-Typical specifications for these valves are shown in table 1. 
-Educational Services For information on available courses for Fisher ET and ETA valves, as well as a variety of other products, contact: Emerson Automation Solutions Educational Services - Registration Phone: 1-641-754-3771 or 1-800-338-8158 E-mail: education@emerson.com emerson.com/fishervalvetraining
-Instruction Manual D100398X012 ET Valve August 2021 
-Table 2. Available Shutoff Classifications per ANSI/FCI 70‐2 and IEC 60534‐4 
-3 
-Installation Always wear protective gloves, clothing, and eyewear when performing any installation operations to avoid personal injury.
-Personal injury or equipment damage caused by sudden release of pressure may result if the valve assembly is installed where service conditions could exceed the limits given in table 1 or on the appropriate nameplates. To avoid such injury or damage, provide a relief valve for over‐pressure protection as required by government or accepted industry codes and good engineering practices. 
-Check with your process or safety engineer for any additional measures that must be taken to protect against process media. 
-If installing into an existing application, also refer to the WARNING at the beginning of the Maintenance section in this instruction manual. 
-1.  Before installing the valve, inspect the valve and associated equipment for any damage and any foreign material. 
-2.  Make certain the valve body interior is clean, that pipelines are free of foreign material, and that the valve is oriented so that pipeline flow is in the same direction as the arrow on the side of the valve. 
-3.  The control valve assembly may be installed in any orientation unless limited by seismic criteria. However, the normal method is with the actuator vertical above the valve. Other positions may result in uneven valve plug and cage wear, and improper operation. With some valves, the actuator may also need to be supported when it is not vertical. For more information, consult your Emerson sales office. 
-4.  Use accepted piping and welding practices when installing the valve in the line. For flanged valves, use a suitable gasket between the valve and pipeline flanges. 
-5.  With a leak‐off bonnet construction, remove the pipe plugs (keys 14 and 16, figure 14) to hook up the leak‐off piping. If continuous operation is required during inspection or maintenance, install a three‐valve bypass around the control valve assembly. 
-6.  If the actuator and valve are shipped separately, refer to the actuator mounting procedure in the appropriate actuator instruction manual. 
-Instruction Manual D100398X012 ET Valve August 2021 
-CAUTION When ordered, the valve configuration and construction materials were selected to meet particular pressure, temperature, pressure drop, and controlled fluid conditions. Responsibility for the safety of process media and compatibility of valve materials with process media rests solely with the purchaser and end‐user. Since some valve body/trim material combinations are limited in their pressure drop and temperature ranges, do not apply any other conditions to the valve without first contacting your Emerson sales office. Before installing the valve, inspect the valve and pipelines for any damage and any foreign material which may cause product damage.
-CAUTION Depending on valve body materials used, post weld heat treating may be required. If so, damage to internal elastomeric and plastic parts, as well as internal metal parts is possible. Shrink‐fit pieces and threaded connections may also loosen. In general, if post weld heat treating is to be performed, all trim parts should be removed. Contact your Emerson sales office for additional information.
-4 
-  WARNING 
-Personal injury could result from packing leakage. Valve packing was tightened prior to shipment; however, the packing might require some readjustment to meet specific service conditions. Check with your process or safety engineer for any additional measures that must be taken to protect against process media. 
-Valves with ENVIRO‐SEAL live‐loaded packing or HIGH‐SEAL live‐loaded packing will not require this initial readjustment. See the Fisher instruction manuals, ENVIRO‐SEAL Packing System for Sliding‐Stem Valves or HIGH‐SEAL Live‐Loaded Packing System (as appropriate), for packing instructions. If you wish to convert your present packing arrangement to ENVIRO‐SEAL packing, refer to the retrofit kits listed in the Parts Kits section. 
-Maintenance 
-Valve parts are subject to normal wear and must be inspected and replaced as necessary. Inspection and maintenance frequency depends on the severity of service conditions. This section includes instructions for packing lubrication, packing maintenance, trim maintenance, and ENVIRO‐SEAL bellows seal bonnet replacement. All maintenance operations may be performed with the valve in the line. 
-Avoid personal injury or property damage from sudden release of process pressure or bursting of parts. Before performing any maintenance operations: Instruction Manual D100398X012 ET Valve August 2021
-� Do not remove the actuator from the valve while the valve is still pressurized. 
-� Always wear protective gloves, clothing, and eyewear when performing any maintenance operations to avoid personal injury. 
-� Disconnect any operating lines providing air pressure, electric power, or a control signal to the actuator. Be sure the actuator cannot suddenly open or close the valve. 
-� Use bypass valves or completely shut off the process to isolate the valve from process pressure. Relieve process pressure from both sides of the valve. Drain the process media from both sides of the valve. 
-� Vent the pneumatic actuator loading pressure and relieve any actuator spring precompression. 
-� Use lock‐out procedures to be sure that the above measures stay in effect while you work on the equipment. 
-� The valve packing box may contain process fluids that are pressurized, even when the valve has been removed from the pipeline. Process fluids may spray out under pressure when removing the packing hardware or packing rings, or when loosening the packing box pipe plug. 
-� Check with your process or safety engineer for any additional measures that must be taken to protect against process media. 
-CAUTION Follow instructions carefully to avoid damaging the product surfaces, which could result in damage to the product. Trim Cartridge is a single use repair solution. It is not recommended to remove and reinstall Trim Cartridge after initial installation so valve assemblies with Trim Cartridge will not support an open and inspect maintenance strategy. If the valve contains Trim Cartridge (Trim Cartridges can be identified by a name plate on the bonnet flange, the use of a packing nut, and “Fisher” embossed below the yoke mounting), please refer to Fisher ET and EZ easy-e Valves with Trim Cartridge Instruction Manual [(D104358X012)](https://www.emerson.com/documents/automation/instruction-manual-fisher-et-ez-easy-e-control-valves-trim-cartridge-en-7589820.pdf) for appropriate maintenance procedures.
-  WARNING 
-  WARNING 
+![WARNING](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
+**WARNING**
+
+Always wear protective gloves, clothing, and eyewear when performing any installation operations to avoid personal injury.
+
+Personal injury or equipment damage caused by sudden release of pressure may result if the valve assembly is installed where service conditions could exceed the limits given in table 1 or on the appropriate nameplates. To avoid such injury or damage, provide a relief valve for over‐pressure protection as required by government or accepted industry codes and good engineering practices.
+
+Check with your process or safety engineer for any additional measures that must be taken to protect against process media.
+
+If installing into an existing application, also refer to the WARNING at the beginning of the Maintenance section in this instruction manual.  
+***
+
+**CAUTION**
+
+When ordered, the valve configuration and construction materials were selected to meet particular pressure, temperature, pressure drop, and controlled fluid conditions. Responsibility for the safety of process media and compatibility of valve materials with process media rests solely with the purchaser and end‐user. Since some valve body/trim material combinations are limited in their pressure drop and temperature ranges, do not apply any other conditions to the valve without first contacting your [Emerson sales office](https://www.emerson.com/en-us/automation/fisher).
+
+Before installing the valve, inspect the valve and pipelines for any damage and any foreign material which may cause product damage.  
+***
+
+1. Before installing the valve, inspect the valve and associated equipment for any damage and any foreign material.  
+2. Make certain the valve body interior is clean, that pipelines are free of foreign material, and that the valve is oriented so that pipeline flow is in the same direction as the arrow on the side of the valve.  
+3. The control valve assembly may be installed in any orientation unless limited by seismic criteria. However, the normal method is with the actuator vertical above the valve. Other positions may result in uneven valve plug and cage wear, and improper operation. With some valves, the actuator may also need to be supported when it is not vertical. For more information, consult your [Emerson sales office](https://www.emerson.com/en-us/automation/fisher).  
+4. Use accepted piping and welding practices when installing the valve in the line. For flanged valves, use a suitable gasket between the valve and pipeline flanges.  
+
+**CAUTION**
+
+Depending on valve body materials used, post weld heat treating may be required. If so, damage to internal elastomeric and plastic parts, as well as internal metal parts is possible. Shrink‐fit pieces and threaded connections may also loosen. In general, if post weld heat treating is to be performed, all trim parts should be removed. Contact your Emerson sales office
+for additional information.  
+***
+
+5. With a leak‐off bonnet construction, remove the pipe plugs (keys 14 and 16, figure 14) to hook up the leak‐off piping. If continuous operation is required during inspection or maintenance, install a three‐valve bypass around the control valve assembly.
+6. If the actuator and valve are shipped separately, refer to the actuator mounting procedure in the appropriate actuator instruction manual.
+
+4
+
+**Instruction Manual**  
+D100398X012  
+**ET Valve**  
+August 2021
+***
+
+![WARNING](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
+**WARNING**
+
+Personal injury could result from packing leakage. Valve packing was tightened prior to shipment; however, the packing might require some readjustment to meet specific service conditions. Check with your process or safety engineer for any additional measures that must be taken to protect against process media.
+***
+
+Valves with ENVIRO‐SEAL live‐loaded packing or HIGH‐SEAL live‐loaded packing will not require this initial readjustment. See the Fisher instruction manuals, ENVIRO‐SEAL Packing System for Sliding‐Stem Valves or HIGH‐SEAL Live‐Loaded Packing System (as appropriate), for packing instructions. If you wish to convert your present packing arrangement to ENVIRO‐SEAL packing, refer to the retrofit kits listed in the Parts Kits section.
+
+# Maintenance
+
+Valve parts are subject to normal wear and must be inspected and replaced as necessary. Inspection and maintenance frequency depends on the severity of service conditions. This section includes instructions for packing lubrication, packing maintenance, trim maintenance, and ENVIRO‐SEAL bellows seal bonnet replacement. All maintenance operations may be performed with the valve in the line.
+
+![WARNING](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
+**WARNING**
+
+**Avoid personal injury or property damage from sudden release of process pressure or bursting of parts. Before performing any maintenance operations:**
+- **Do not remove the actuator from the valve while the valve is still pressurized.**
+- **Always wear protective gloves, clothing, and eyewear when performing any maintenance operations to avoid personal injury.**
+- **Disconnect any operating lines providing air pressure, electric power, or a control signal to the actuator. Be sure the actuator cannot suddenly open or close the valve.**
+- **Use bypass valves or completely shut off the process to isolate the valve from process pressure. Relieve process pressure from both sides of the valve. Drain the process media from both sides of the valve.**
+- **Vent the pneumatic actuator loading pressure and relieve any actuator spring precompression.**
+- **Use lock‐out procedures to be sure that the above measures stay in effect while you work on the equipment.**
+- **The valve packing box may contain process fluids that are pressurized, even when the valve has been removed from the pipeline. Process fluids may spray out under pressure when removing the packing hardware or packing rings, or when loosening the packing box pipe plug.**
+- **Check with your process or safety engineer for any additional measures that must be taken to protect against process media.**
+***
+
+**CAUTION**
+
+Follow instructions carefully to avoid damaging the product surfaces, which could result in damage to the product.
+
+Trim Cartridge is a single use repair solution. It is not recommended to remove and reinstall Trim Cartridge after initial installation so valve assemblies with Trim Cartridge will not support an open and inspect maintenance strategy. If the valve contains Trim Cartridge (Trim Cartridges can be identified by a name plate on the bonnet flange, the use of a packing nut, and “Fisher” embossed below the yoke mounting), please refer to Fisher ET and EZ easy-e Valves with Trim Cartridge Instruction Manual ([D104358X012](https://www.emerson.com/documents/automation/instruction-manual-fisher-et-ez-easy-e-control-valves-trim-cartridge-en-7589820.pdf)) for appropriate maintenance procedures.
+***
+
 5 
+
 Packing Lubrication To avoid personal injury or property damage resulting from fire or explosion, do not lubricate packing used in oxygen service or in processes with temperatures over 260�C (500�F).
 If a lubricator or lubricator/isolating valve (figure 2) is provided for PTFE/composition or other packings that require lubrication, it will be installed in place of the pipe plug (key 14, figure 14). Use a good quality silicon‐base lubricant. Do not lubricate packing used in oxygen service or in processes with temperatures over 260�C (500�F). To operate the lubricator, simply turn the cap screw clockwise to force the lubricant into the packing box. The lubricator/isolating valve operates the same way except open the isolating valve before turning the cap screw and then close the isolating valve after lubrication is completed. 
 Packing Maintenance 
