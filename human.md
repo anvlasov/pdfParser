@@ -4,7 +4,7 @@ D100398X012
 August 2021
 ***
 
-**Fisher™ ET and EAT easy‐e™ Valves CL125 through CL600**
+**Fisher<sup>tm</sup> ET and EAT easy‐e<sup>tm</sup> Valves CL125 through CL600**
 
 # Contents
 
@@ -23,7 +23,7 @@ August 2021
          - Lapping Metal Seats . . . . . . . . . . . . . . . . . . . . . . . 15
          - Valve Plug Maintenance . . . . . . . . . . . . . . . . . . . . 16
          - Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
-     - ENVIRO‐SEAL™ Bellows Seal Bonnet . . . . . . . . . . . . . 20
+     - ENVIRO‐SEAL<sup>tm</sup> Bellows Seal Bonnet . . . . . . . . . . . . . 20
          - Replacing a Plain or Extension Bonnet with an  ENVIRO‐SEAL Bellows Seal Bonnet (Stem/Bellows Assembly) . . . . . . . . . . . . . . . . 20
          - Replacement of an Installed ENVIRO‐SEAL  Bellows Seal Bonnet  (Stem/Bellows Assembly) . . . . . . . . . . . . . . . . 23
          - Purging the ENVIRO‐SEAL Bellows Seal Bonnet . 25
@@ -75,12 +75,12 @@ _Buttwelding:_ Consistent with ASME B16.25
 _Flanged:_ CL300, CL 600 raised‐face or ring‐type joint flanges per ASME B16.5  
 _Buttwelding:_ Schedules 40 or 80 consistent with ASME B16.25 NPS 3 through 8 CL300/CL600
 
-#### Maximum Inlet Pressure(1)
+#### Maximum Inlet Pressure<sup>(1)</sup>
 
 **Cast Iron Valves**  
 _Flanged:_ Consistent with CL125B or 250B pressure‐temperature ratings per ASME B16.1  
 **Steel and Stainless Steel Valves**  
-_Flanged:_ Consistent with CL150, 300, and 600(2)  
+_Flanged:_ Consistent with CL150, 300, and 600<sup>2</sup>  
 pressure‐temperature ratings per ASME B16.34  
 _Screwed or Welding:_ Consistent with CL600 pressure‐temperature ratings per ASME B16.34  
 **Valves with R31233 DST**  
@@ -98,7 +98,7 @@ See table 2
 
 #### Flow Characteristics
 
-Linear (all cages), quick‐opening (all except Whisper Trim™, WhisperFlo™, and Cavitrol™ cages), or equal percentage (all except Whisper Trim, WhisperFlo, and Cavitrol cages)  
+Linear (all cages), quick‐opening (all except Whisper Trim<sup>tm</sup>, WhisperFlo<sup>tm</sup>, and Cavitrol<sup>tm</sup> cages), or equal percentage (all except Whisper Trim, WhisperFlo, and Cavitrol cages)  
 **R31233 DST Constructions**  
 Linear
 
@@ -111,30 +111,30 @@ Linear
 
 #### Approximate Weights
 
-| VALVE SIZE, NPS| WEIGHT | \-  |
-| :-------------:| :----: | :-: |
-| \-             | kg     | lb  |
-| 1 and 1‐1/4    | 14     | 30  |
-| 1‐1/2          | 20     | 45  |
-| 2              | 39     | 67  |
-| 2‐1/2          | 45     | 100 |
-| 3              | 54     | 125 |
-| 4              | 77     | 170 |
-| 6              | 159    | 350 |
-| 8              | 408    | 900 |
+| VALVE SIZE, NPS| WEIGHT | \- |
+| :---:| :----: | :----: |
+| \- | kg | lb |
+| 1 and 1‐1/4 | 14 | 30 |
+| 1‐1/2 | 20 | 45 |
+| 2 | 39 | 67 |
+| 2‐1/2 | 45 | 100 |
+| 3 | 54 | 125 |
+| 4 | 77 | 170 |
+| 6 | 159 | 350 |
+| 8 | 408 | 900 |
 
 #### Approximate Weights with R31233 DST
 
-| VALVE SIZE, NPS | STAGE   | WEIGHT | \-   |
-| :-------------: | :-----: | :----: | :--: |
-| \-              | \-      | kg     | lb   |
-| 3               | 2-stage | 63     | 138  |
-| \-              | 3-stage | 68     | 150  |
-| 4               | 2-stage | 93     | 206  |
-| \-              | 3-stage | 105    | 232  |
-| 6               | 2-stage | 212    | 467  |
-| \-              | 3-stage | 234    | 515  |
-| 8               | 3-stage | 518    | 1143 |
+| VALVE SIZE, NPS | STAGE | WEIGHT | \- |
+| :---: | :---: | :---: | :----: |
+| \- | \- | kg | lb |
+| 3 | 2-stage | 63 | 138 |
+| \- | 3-stage | 68 | 150 |
+| 4 | 2-stage | 93 | 206 |
+| \- | 3-stage | 105 | 232 |
+| 6 | 2-stage | 212 | 467 |
+| \- | 3-stage | 234 | 515 |
+| 8 | 3-stage | 518 | 1143 |
 
 ***
 
@@ -149,23 +149,25 @@ D100398X012
 August 2021
 ***
 
+### Table 2. Available Shutoff Classifications per ANSI/FCI 70‐2 and IEC 60534‐4
 
-Linear (all cages), quick‐opening (all except Whisper Trim™, WhisperFlo™, and Cavitrol™ cages), or equal percentage (all except Whisper Trim, WhisperFlo, and Cavitrol cages) R31233 DST Constructions Linear 
+| Valve | Seating | Shutoff Class |
+| :---: | :---: | :---: |
+| All except those with Cavitrol III cages | PTFE (standard) | V ‐ air test |
+| \- | \- | V ‐ water test (optional) |
+| \- | Metal | IV |
+| \- | \- | V (optional)<sup>2</sup> |
 
-Valve                                                                                                                                                                                                                                           |Seating                         |Shutoff Class            
-:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------:|:-----------------------:
-All except those with Cavitrol III cages                                                                                                                                                                                                        |PTFE (standard)                 |V ‐ air test             
-\-                                                                                                                                                                                                                                              |\-                              |V ‐ water test (optional)
-\-                                                                                                                                                                                                                                              |Metal                           |IV                       
-\-                                                                                                                                                                                                                                              |\-                              |V (optional)(2)          
+
 ET with Cavitrol III 1‐stage cage                                                                                                                                                                                                               |Metal                           |IV (standard)            
 \-                                                                                                                                                                                                                                              |\-                              |V (optional)             
 ET with Cavitrol III 2‐stage cages                                                                                                                                                                                                              |Metal                           |V                        
-ET w/PEEK Anti‐Extrusion Rings                                                                                                                                                                                                                  |Metal                           |V to 316�C (600�F)       
+ET w/PEEK Anti‐Extrusion Rings                                                                                                                                                                                                                  |Metal                           |V to 316&deg;C (600&deg;F)       
 ET w/ 3.4375 to 7‐inch port                                                                                                                                                                                                                     |Soft or Metal                   |VI                       
 ET and EAT w/ TSO (Tight Shutoff Trim)                                                                                                                                                                                                          |Replaceable, protected soft seat|TSO(1)                   
 ET with R31233 DST                                                                                                                                                                                                                              |Metal                           |V                        
-1. This is a special non‐ANSI/FCI leakage class. 2. Class V shutoff requires spring‐loaded seal ring, radiused‐seat plug, and wide‐bevel seat ring (not available with 8‐inch port, quick‐opening cage). Not available with trims 4, 29, and 85.|\-                              |\-                       
+1. This is a special non‐ANSI/FCI leakage class.
+2. Class V shutoff requires spring‐loaded seal ring, radiused‐seat plug, and wide‐bevel seat ring (not available with 8‐inch port, quick‐opening cage). Not available with trims 4, 29, and 85.|\-                              |\-                       
 
 Description These single‐port valves have cage guiding, quick‐change trim, and balanced push‐down‐to‐close valve plug action. Valve configurations are as follows: ET‐‐Globe‐style valve (figure 1) with metal‐to‐PTFE seating (standard for all except Cavitrol III cages and DST) for stringent shutoff requirements, or metal‐to‐metal seating (standard for Cavitrol III cages and DST, optional for all others) for higher temperatures.
 EAT‐‐Angle version of ET, used to facilitate piping or in applications which require a self‐draining valve. 
