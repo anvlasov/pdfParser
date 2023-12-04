@@ -61,6 +61,8 @@ D100398X012
 
 ### Table 1. Specifications
 
+***
+
 #### End Connection Styles
 
 **Cast Iron Valves**  
@@ -94,52 +96,58 @@ _Trim Material:_ R31233 Cobalt Chrome Alloy
 
 See table 2
 
-Flow Characteristics
-Linear (all cages), quick‐opening (all except Whisper
-Trim™, WhisperFlo™, and Cavitrol™ cages), or equal
-percentage (all except Whisper Trim, WhisperFlo, and
-Cavitrol cages)
-R31233 DST Constructions
+#### Flow Characteristics
+
+Linear (all cages), quick‐opening (all except Whisper Trim™, WhisperFlo™, and Cavitrol™ cages), or equal percentage (all except Whisper Trim, WhisperFlo, and Cavitrol cages)  
+**R31233 DST Constructions**  
 Linear
 
-Flow Directions
-Linear, Quick Opening, or Equal Percentage Cage:
-Normally down
-Whisper Trim and WhisperFlo Cages: Always up
-Cavitrol Cage: Always down
-R31233 DST Cage: Always down
+#### Flow Directions
 
-Approximate Weights
-VALVE SIZE, NPS|WEIGHT|\- 
-:-------------:|:----:|:-:
-\-             |kg    |lb 
-1 and 1‐1/4    |14    |30 
-1‐1/2          |20    |45 
-2              |39    |67 
-2‐1/2          |45    |100
-3              |54    |125
-4              |77    |170
-6              |159   |350
-8              |408   |900
+**Linear, Quick Opening, or Equal Percentage Cage:** Normally down  
+**Whisper Trim and WhisperFlo Cages:** Always up  
+**Cavitrol Cage:** Always down  
+**R31233 DST Cage:** Always down
 
-Approximate Weights with R31233 DST
-VALVE SIZE, NPS|STAGE  |WEIGHT|\-  
-:-------------:|:-----:|:----:|:--:
-\-             |\-     |kg    |lb  
-3              |2-stage|63    |138 
-\-             |3-stage|68    |150 
-4              |2-stage|93    |206 
-\-             |3-stage|105   |232 
-6              |2-stage|212   |467 
-\-             |3-stage|234   |515 
-8              |3-stage|518   |1143
+#### Approximate Weights
+
+| VALVE SIZE, NPS| WEIGHT | \-  |
+| :-------------:| :----: | :-: |
+| \-             | kg     | lb  |
+| 1 and 1‐1/4    | 14     | 30  |
+| 1‐1/2          | 20     | 45  |
+| 2              | 39     | 67  |
+| 2‐1/2          | 45     | 100 |
+| 3              | 54     | 125 |
+| 4              | 77     | 170 |
+| 6              | 159    | 350 |
+| 8              | 408    | 900 |
+
+#### Approximate Weights with R31233 DST
+
+| VALVE SIZE, NPS | STAGE   | WEIGHT | \-   |
+| :-------------: | :-----: | :----: | :--: |
+| \-              | \-      | kg     | lb   |
+| 3               | 2-stage | 63     | 138  |
+| \-              | 3-stage | 68     | 150  |
+| 4               | 2-stage | 93     | 206  |
+| \-              | 3-stage | 105    | 232  |
+| 6               | 2-stage | 212    | 467  |
+| \-              | 3-stage | 234    | 515  |
+| 8               | 3-stage | 518    | 1143 |
+
+***
 
 1. The pressure/temperature limits in this manual and any applicable standard or code limitation for valve should not be exceeded.
-2. Certain bonnet bolting material selections may require a CL600 easy‐e valve assembly to be derated. Contact your Emerson sales office.
+2. Certain bonnet bolting material selections may require a CL600 easy‐e valve assembly to be derated. Contact your [Emerson sales office](https://www.emerson.com/en-us/automation/fisher).
 
+***
 
-
-
+**Instruction Manual**  
+D100398X012  
+**ET Valve**  
+August 2021
+***
 
 
 Linear (all cages), quick‐opening (all except Whisper Trim™, WhisperFlo™, and Cavitrol™ cages), or equal percentage (all except Whisper Trim, WhisperFlo, and Cavitrol cages) R31233 DST Constructions Linear 
