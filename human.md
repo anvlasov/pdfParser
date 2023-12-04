@@ -157,17 +157,41 @@ August 2021
 | \- | \- | V ‐ water test (optional) |
 | \- | Metal | IV |
 | \- | \- | V (optional)<sup>2</sup> |
+| ET with Cavitrol III 1‐stage cage | Metal | IV (standard) |
+| \- | \- | V (optional) |
+| ET with Cavitrol III 2‐stage cages | Metal | V |
+| ET w/PEEK Anti‐Extrusion Rings | Metal | V to 316&deg;C (600&deg;F) |
+| ET w/ 3.4375 to 7‐inch port | Soft or Metal | VI |
+| ET and EAT w/ TSO (Tight Shutoff Trim) | Replaceable, protected soft seat | TSO<sup>1</sup> |
+| ET with R31233 DST | Metal | V |
+| <ol><li>This is a special non‐ANSI/FCI leakage class.</li><li>Class V shutoff requires spring‐loaded seal ring, radiused‐seat plug, and wide‐bevel seat ring (not available with 8‐inch port, quick‐opening cage). Not available with trims 4, 29, and 85.</li></ol> | \- | \- |
+
+## Description
+
+These single‐port valves have cage guiding, quick‐change trim, and balanced push‐down‐to‐close valve plug action. Valve configurations are as follows:
+
+ET‐‐Globe‐style valve (figure 1) with metal‐to‐PTFE seating (standard for all except Cavitrol III cages and DST) for
+stringent shutoff requirements, or metal‐to‐metal seating (standard for Cavitrol III cages and DST, optional for all
+others) for higher temperatures.
+
+EAT‐‐Angle version of ET, used to facilitate piping or in applications which require a self‐draining valve.
+
+## Specifications
+
+Typical specifications for these valves are shown in table 1.
+
+## Educational Services
+
+For information on available courses for Fisher ET and ETA valves, as well as a variety of other products, contact:
+
+Emerson Automation Solutions  
+Educational Services - Registration  
+Phone: 1-641-754-3771 or 1-800-338-8158  
+E-mail: [education@emerson.com](mailto:education@emerson.com)  
+emerson.com/fishervalvetraining  
 
 
-ET with Cavitrol III 1‐stage cage                                                                                                                                                                                                               |Metal                           |IV (standard)            
-\-                                                                                                                                                                                                                                              |\-                              |V (optional)             
-ET with Cavitrol III 2‐stage cages                                                                                                                                                                                                              |Metal                           |V                        
-ET w/PEEK Anti‐Extrusion Rings                                                                                                                                                                                                                  |Metal                           |V to 316&deg;C (600&deg;F)       
-ET w/ 3.4375 to 7‐inch port                                                                                                                                                                                                                     |Soft or Metal                   |VI                       
-ET and EAT w/ TSO (Tight Shutoff Trim)                                                                                                                                                                                                          |Replaceable, protected soft seat|TSO(1)                   
-ET with R31233 DST                                                                                                                                                                                                                              |Metal                           |V                        
-1. This is a special non‐ANSI/FCI leakage class.
-2. Class V shutoff requires spring‐loaded seal ring, radiused‐seat plug, and wide‐bevel seat ring (not available with 8‐inch port, quick‐opening cage). Not available with trims 4, 29, and 85.|\-                              |\-                       
+
 
 Description These single‐port valves have cage guiding, quick‐change trim, and balanced push‐down‐to‐close valve plug action. Valve configurations are as follows: ET‐‐Globe‐style valve (figure 1) with metal‐to‐PTFE seating (standard for all except Cavitrol III cages and DST) for stringent shutoff requirements, or metal‐to‐metal seating (standard for Cavitrol III cages and DST, optional for all others) for higher temperatures.
 EAT‐‐Angle version of ET, used to facilitate piping or in applications which require a self‐draining valve. 
