@@ -56,7 +56,7 @@ Do not install, operate, or maintain ET valves without being fully trained and q
 **ET Valve**  
 August 2021  
 **Instruction Manual**  
-D100398X012
+D100398X012  
 ***
 
 ### Table 1. Specifications
@@ -148,7 +148,7 @@ Linear
 **Instruction Manual**  
 D100398X012  
 **ET Valve**  
-August 2021
+August 2021  
 ***
 
 ### Table 2. Available Shutoff Classifications per ANSI/FCI 70‐2 and IEC 60534‐4
@@ -197,7 +197,7 @@ emerson.com/fishervalvetraining
 **ET Valve**  
 D100398X012  
 **Instruction Manual**  
-August 2021
+August 2021  
 ***
 
 # Installation
@@ -233,7 +233,7 @@ for additional information.
 **Instruction Manual**  
 D100398X012  
 **ET Valve**  
-August 2021
+August 2021  
 ***
 
 ![WARNING](https://raw.githubusercontent.com/anvlasov/pdfParser/main/pics/Icon1.png)
@@ -270,7 +270,7 @@ Trim Cartridge is a single use repair solution. It is not recommended to remove 
 **ET Valve**  
 August 2021  
 **Instruction Manual**  
-D100398X012
+D100398X012  
 ***
 
 **Note**  
@@ -309,7 +309,7 @@ For spring‐loaded single PTFE V‐ring packing, the spring (key 8) maintains a
 **Instruction Manual**  
 D100398X012  
 **ET Valve**  
-August 2021
+August 2021  
 ***
 
 ***
@@ -345,7 +345,7 @@ If the packing is relatively new and tight on the stem, and if tightening the pa
 **ET Valve**  
 August 2021  
 **Instruction Manual**  
-D100398X012
+D100398X012  
 ***
 
 ***
@@ -358,7 +358,7 @@ Figure 3. PTFE V‐Ring Packing Arrangements for Plain and Extension Bonnets
 **Instruction Manual**  
 D100398X012  
 **ET Valve**  
-August 2021
+August 2021  
 ***
 
 ***
@@ -395,51 +395,46 @@ The following step also helps to provide additional assurance that the valve bod
 
 9
 
+**ET Valve**  
+August 2021  
+**Instruction Manual**  
+D100398X012  
+***
 
-Instruction Manual D100398X012 ET Valve August 2021 
-Figure 4. Detail of PTFE/Composition Packing Arrangements for Plain and Extension Bonnets 
-Table 3. Body‐to‐Bonnet Bolt Torque Guidelines(1) 
-Note 
-The following step also helps to provide additional assurance that the valve body fluid pressure has been relieved. 
-CAUTION Avoid damaging the seating surface caused by the valve plug and stem assembly dropping from the bonnet (key 1, figure 14) after being lifted part way out. When lifting the bonnet, temporarily install a valve stem locknut on the valve stem. The locknut will prevent the valve plug and stem assembly from dropping out of the bonnet.
-12A8188‐A 12A7815‐A 12A8173‐A A2619‐1 
-![Image](/Users/otana/Development/AlanNLP/.output/pdf_parser_explorer/results/01_12_2023__18_04_45_POC_fitz, dpi200, no ocr, smart tables/images/ed40c91c723d25a4018b91885a0a6bc388b5f025c10f6f82364717aa9de38d17_607_480.png)
+4. Hex nuts (key 16, figure 16, 17, or 20) or cap screws (not shown) attach the bonnet (key 1, figure 14) to the valve body (key 1, figure 16, 17, or 20). Loosen these nuts or cap screws approximately 3 mm (1/8 inch). Then loosen the body‐to‐bonnet gasketed joint by either rocking the bonnet or prying between the bonnet and valve. Work the prying tool around the bonnet until the bonnet loosens. If no fluid leaks from the joint, remove the nuts or cap screws completely and carefully lift the bonnet off the valve.
 
-12.7 mm (1/2 INCH) STEM 
-19.1, 25.4, OR 31.8 mm (3/4, 1, OR 1‐1/4 INCH) STEM 
-UPPER WIPER (KEY 12) PACKING  FOLLOWER (KEY 13) 
-PACKING RING (KEY 7) 
-LANTERN RING (KEY 8) 
-PACKING BOX RING (KEY 11) 
-9 
+**Table 4. Recommended Torque for Packing Flange Nuts**  
+| VALVE STEM DIAMETER | \- | PRESSURE RATING | GRAPHITE TYPE PACKING |\- | \- | \- | PTFE TYPE PACKING | \- | \- |\- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| \- | \- | \- | Minimum Torque | \- | Maximum Torque | \- | Minimum Torque | \- | Maximum Torque | \- |
+| mm | Inches | \- | Nf&#8226;m | Lbff&#8226;in|Nf&#8226;m | Lbff&#8226;in|Nf&#8226;m | Lbff&#8226;in|N&#8226;m | Lbf&#8226;in |
+| 9.5 | 3/8 | CL125, 150 | 3 | 27 | 5 | 40 | 1 | 13 | 2 | 19 |
+| \- | \- | CL250, 300 | 4 | 36 | 6 | 53 | 2 | 17 | 3 | 26 |
+| \- | \- | CL600 | 6 | 49 | 8 | 73 | 3 | 23 | 4 | 35 |
+| 12.7 | 1/2 | CL125, 150 | 5 | 44 | 8 | 66 | 2 | 21 | 4 | 31 |
+| \- | \- | CL250, 300 | 7 | 59 | 10 | 88 | 3 | 28 | 5 | 42 |
+| \- | \- | CL600 | 9 | 81 | 14 | 122 | 4 | 39 | 7 | 58 |
+| 19.1 | 3/4 | CL125, 150 | 11 | 99 | 17 | 149 | 5 | 47 | 8 | 70 |
+| \- | \- | CL250, 300 | 15 | 133 | 23 | 199 | 7 | 64 | 11 | 95 |
+| \- | \- | CL600 | 21 | 182 | 31 | 274 | 10 | 87 | 15 | 131 |
+| 25.4 | 1 | CL300 | 26 | 226 | 38 | 339 | 12 | 108 | 18 | 162 |
+| \- | \- | CL600 | 35 | 310 | 53 | 466 | 17 | 149 | 25 | 223 |
+| 31.8 | 1‐1/4 | CL300 | 36 | 318 | 54 | 477 | 17 | 152 | 26 | 228 |
+| \- | \- | CL600 | 49 | 437 | 74 | 655 | 24 | 209 | 36 | 314 |
 
-VALVE STEM DIAMETER|\-    |PRESSURE RATING|GRAPHITE TYPE PACKING|\-    |\-            |\-    |PTFE TYPE PACKING|\-    |\-            |\-    
-:-----------------:|:----:|:-------------:|:-------------------:|:----:|:------------:|:----:|:---------------:|:----:|:------------:|:----:
-\-                 |\-    |\-             |Minimum Torque       |\-    |Maximum Torque|\-    |Minimum Torque   |\-    |Maximum Torque|\-    
-mm                 |Inches|\-             |N�m                  |Lbf�in|N�m           |Lbf�in|N�m              |Lbf�in|N�m           |Lbf�in
-9.5                |3/8   |CL125, 150     |3                    |27    |5             |40    |1                |13    |2             |19    
-\-                 |\-    |CL250, 300     |4                    |36    |6             |53    |2                |17    |3             |26    
-\-                 |\-    |CL600          |6                    |49    |8             |73    |3                |23    |4             |35    
-12.7               |1/2   |CL125, 150     |5                    |44    |8             |66    |2                |21    |4             |31    
-\-                 |\-    |CL250, 300     |7                    |59    |10            |88    |3                |28    |5             |42    
-\-                 |\-    |CL600          |9                    |81    |14            |122   |4                |39    |7             |58    
-19.1               |3/4   |CL125, 150     |11                   |99    |17            |149   |5                |47    |8             |70    
-\-                 |\-    |CL250, 300     |15                   |133   |23            |199   |7                |64    |11            |95    
-\-                 |\-    |CL600          |21                   |182   |31            |274   |10               |87    |15            |131   
-25.4               |1     |CL300          |26                   |226   |38            |339   |12               |108   |18            |162   
-\-                 |\-    |CL600          |35                   |310   |53            |466   |17               |149   |25            |223   
-31.8               |1‐1/4 |CL300          |36                   |318   |54            |477   |17               |152   |26            |228   
-\-                 |\-    |CL600          |49                   |437   |74            |655   |24               |209   |36            |314   
+5. Remove the locknut and separate the valve plug and stem from the bonnet. Set the parts on a protective surface to prevent damage to gasket or seating surfaces.
 
-5.  Remove the locknut and separate the valve plug and stem from the bonnet. Set the parts on a protective surface to prevent damage to gasket or seating surfaces. 
-6.  Remove the bonnet gasket (key 10, figure 16, 17, or 20) and cover the opening in the valve to protect the gasket surface and prevent foreign material from getting into the valve body cavity. 
-7.  Remove the packing flange nuts, packing flange, upper wiper, and packing follower (keys 5, 3, 12, and 13, figure 14). Carefully push out all the remaining packing parts from the valve side of the bonnet using a rounded rod or other tool that will not scratch the packing box wall. Clean the packing box and the metal packing parts. 
-8.  Inspect the valve stem threads and packing box surfaces for any sharp edges which might cut the packing. Scratches or burrs could cause packing box leakage or damage to the new packing. If the surface condition cannot be improved by light sanding, replace the damaged parts by following the appropriate steps in the Trim Maintenance procedure. 
-9.  Remove the covering protecting the valve body cavity and install a new bonnet gasket (key 10, figure 16, 17, or 20), making sure the gasket seating surfaces are clean and smooth. Then slide the bonnet over the stem and onto the stud bolts (key 15, figure 16, 17, or 20) or onto the valve body cavity if cap screws (not shown) will be used instead. 
-Instruction Manual D100398X012 ET Valve August 2021 
-Table 4. Recommended Torque for Packing Flange Nuts 
-CAUTION To prevent possible product damage, cover the opening in the valve in the following procedure to prevent foreign material from getting into the valve body cavity.
+**CAUTION**  
+**To prevent possible product damage, cover the opening in the valve in the following procedure to prevent foreign material from getting into the valve body cavity.**  
+***
+
+6. Remove the bonnet gasket (key 10, figure 16, 17, or 20) and cover the opening in the valve to protect the gasket surface and prevent foreign material from getting into the valve body cavity.
+7. Remove the packing flange nuts, packing flange, upper wiper, and packing follower (keys 5, 3, 12, and 13, figure 14). Carefully push out all the remaining packing parts from the valve side of the bonnet using a rounded rod or other tool that will not scratch the packing box wall. Clean the packing box and the metal packing parts.
+8. Inspect the valve stem threads and packing box surfaces for any sharp edges which might cut the packing. Scratches or burrs could cause packing box leakage or damage to the new packing. If the surface condition cannot be improved by light sanding, replace the damaged parts by following the appropriate steps in the Trim Maintenance procedure.
+9. Remove the covering protecting the valve body cavity and install a new bonnet gasket (key 10, figure 16, 17, or 20), making sure the gasket seating surfaces are clean and smooth. Then slide the bonnet over the stem and onto the stud bolts (key 15, figure 16, 17, or 20) or onto the valve body cavity if cap screws (not shown) will be used instead.
+
 10 
+
 Instruction Manual D100398X012 ET Valve August 2021 
 Note 
 Proper performance of the bolting procedures in step 10 compresses the spiral wound gasket (key 12, figure 16 or 17) or load ring (key 26, figure 20) enough to both load and seal the seat ring gasket (key 13, figure 16, 17 or 20). It also compresses the outer edge of the bonnet gasket (key 10, figure 16 through 20) enough to seal the body‐to‐bonnet joint. 
